@@ -10,4 +10,3 @@ files {
 }
 
 client_script 'MyResource.net.dll'
-server_script 'server.net.dll'
