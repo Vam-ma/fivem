@@ -5,7 +5,10 @@ author 'Vamma'
 description 'Realistic(ish) cars & accidents'
 version '1.0.1'
 
+data_file 'HANDLING_FILE' 'handling.meta'
+
 files {
+    'handling.meta'
     'data/save.json'
 }
 
