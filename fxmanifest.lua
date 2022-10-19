@@ -8,7 +8,8 @@ version '1.0.1'
 data_file 'HANDLING_FILE' 'handling.meta'
 
 files {
-    'handling.meta'
+    'Newtonsoft.Json.dll',
+    'handling.meta',
     'data/save.json'
 }
 
