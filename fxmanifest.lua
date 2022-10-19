@@ -2,15 +2,15 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Vamma'
-description 'Realistic(ish) cars & accidents'
-version '1.0.1'
+description 'Player effects, car destruction & repair & a lot more'
+version '1.1.0'
 
 data_file 'HANDLING_FILE' 'handling.meta'
 
 files {
     'Newtonsoft.Json.dll',
     'handling.meta',
-    'data/save.json'
+    'save.json',
 }
 
 client_script 'MyResource.net.dll'
