@@ -32710,8 +32710,8 @@ fWeaponDamageScaledToVehHealthMult
 			<fRollCentreHeightFront value="0.11" />
 			<fRollCentreHeightRear value="0.12" />
 			<fCollisionDamageMult value="0.7" />
-			<fWeaponDamageMult value="1.0" />
-			<fDeformationDamageMult value="0.7" />
+			<fWeaponDamageMult value="0.2" />
+			<fDeformationDamageMult value="0.0" />
 			<fEngineDamageMult value="1.5" />
 			<fPetrolTankVolume value="65.0" />
 			<fOilVolume value="4.567" />
