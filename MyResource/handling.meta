@@ -15065,9 +15065,9 @@ fWeaponDamageScaledToVehHealthMult
 				<Item type="NULL" />
 			</SubHandlingData>
 		</Item>
-		  <Item type="CHandlingData">
-      <handlingName>VECTRE</handlingName>
-      <fMass value="1765.0" />
+		<Item type="CHandlingData">
+    		<handlingName>VECTRE</handlingName>
+      		<fMass value="1765.0" />
 			<fInitialDragCoeff value="11.725" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
@@ -15113,18 +15113,18 @@ fWeaponDamageScaledToVehHealthMult
 			<fSeatOffsetDistY value="-0.25" />
 			<fSeatOffsetDistZ value="0.0" />
 			<nMonetaryValue value="150000" />
-      <strModelFlags>440010</strModelFlags>
-      <strHandlingFlags>0</strHandlingFlags>
-      <strDamageFlags>0</strDamageFlags>
-      <AIHandling>AVERAGE</AIHandling>
-      <SubHandlingData>
-        <Item type="CCarHandlingData">
-          <strAdvancedFlags>14008000</strAdvancedFlags>
-        </Item>
-        <Item type="NULL" />
-        <Item type="NULL" />
-      </SubHandlingData>
-    </Item>
+      		<strModelFlags>440010</strModelFlags>
+      		<strHandlingFlags>0</strHandlingFlags>
+      		<strDamageFlags>0</strDamageFlags>
+      		<AIHandling>AVERAGE</AIHandling>
+      		<SubHandlingData>
+        	<Item type="CCarHandlingData">
+          	<strAdvancedFlags>14008000</strAdvancedFlags>
+        	</Item>
+        	<Item type="NULL" />
+        	<Item type="NULL" />
+      		</SubHandlingData>
+    	</Item>
 		<Item type="CHandlingData">
 			<handlingName>RAIDEN</handlingName>
 			<fMass value="2100.0" />
@@ -15906,7 +15906,7 @@ fWeaponDamageScaledToVehHealthMult
     	</Item>
 		<Item type="CHandlingData">
       		<handlingName>CYPHER</handlingName>
-<fMass value="1400.0" />
+			<fMass value="1400.0" />
 			<fInitialDragCoeff value="5.0" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
@@ -32978,16 +32978,16 @@ fWeaponDamageScaledToVehHealthMult
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
-			</SubHandlingData>
-		</Item>
-		<Item type="CHandlingData">
-			<handlingName>RHINEHART</handlingName>
-			<fMass value="1400.0" />
-			<fInitialDragCoeff value="5.0" />
-			<fDownforceModifier value="0.0" />
-			<fPercentSubmerged value="85.0" />
-			<vecCentreOfMassOffset x="0.0" y="0.019999999552965" z="0.0" />
-			<vecInertiaMultiplier x="1.2000000476837" y="1.2000000476837" z="1.4500000476837" />
+				</SubHandlingData>
+			</Item>
+			<Item type="CHandlingData">
+				<handlingName>RHINEHART</handlingName>
+				<fMass value="1400.0" />
+				<fInitialDragCoeff value="5.0" />
+				<fDownforceModifier value="0.0" />
+				<fPercentSubmerged value="85.0" />
+				<vecCentreOfMassOffset x="0.0" y="0.019999999552965" z="0.0" />
+				<vecInertiaMultiplier x="1.2000000476837" y="1.2000000476837" z="1.4500000476837" />
 			<fDriveBiasFront value="0.0" />
 			<nInitialDriveGears value="8" />
 			<fInitialDriveForce value="0.785" />
@@ -33028,18 +33028,17 @@ fWeaponDamageScaledToVehHealthMult
 			<fSeatOffsetDistY value="-0.25" />
 			<fSeatOffsetDistZ value="0.0" />
 			<nMonetaryValue value="150000" />
-      <strModelFlags>440010</strModelFlags>
-      <strHandlingFlags>0</strHandlingFlags>
-      <strDamageFlags>0</strDamageFlags>
-      <AIHandling>AVERAGE</AIHandling>
-      <SubHandlingData>
-        <Item type="CCarHandlingData">
-          <strAdvancedFlags>14008000</strAdvancedFlags>
-        </Item>
-        <Item type="NULL" />
-        <Item type="NULL" />
-      </SubHandlingData>
-    </Item>
+      		<strModelFlags>440010</strModelFlags>
+      		<strHandlingFlags>0</strHandlingFlags>
+      		<strDamageFlags>0</strDamageFlags>
+      		<AIHandling>AVERAGE</AIHandling>
+      		<SubHandlingData>
+       	 <Item type="CCarHandlingData">
+         	 <strAdvancedFlags>14008000</strAdvancedFlags>
+        	</Item>
+        	<Item type="NULL" />
+        	<Item type="NULL" />
+      		</SubHandlingData>
 		</Item>
 		<Item type="CHandlingData">
 			<handlingName>SCRAP</handlingName>
