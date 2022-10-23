@@ -33317,7 +33317,7 @@ fWeaponDamageScaledToVehHealthMult
 				<Item type="NULL" />
 			</SubHandlingData>
     	</Item>
-				<Item type="CHandlingData">
+			<Item type="CHandlingData">
 			<handlingName>CORSITA</handlingName>
 			<fMass value="1500.000000" />
 			<fInitialDragCoeff value="10.480000" />
@@ -33500,7 +33500,7 @@ fWeaponDamageScaledToVehHealthMult
 			<item type="NULL" />
 		</SubHandlingData>
     	</Item>
-				<Item type="CHandlingData">
+			<Item type="CHandlingData">
 			<handlingName>TORERO2</handlingName>
 			<fMass value="1595.0" />
 			<fInitialDragCoeff value="9.88" />
@@ -33556,8 +33556,6 @@ fWeaponDamageScaledToVehHealthMult
         	<Item type="CCarHandlingData">
           	<strAdvancedFlags>14000000</strAdvancedFlags>
        	 </Item>
-        	<Item type="NULL" />
-        	<Item type="NULL" />
       		</SubHandlingData>
     	</Item>
 		<Item type="CHandlingData">
@@ -33748,11 +33746,11 @@ fWeaponDamageScaledToVehHealthMult
       		<vecInertiaMultiplier x="1.000000" y="1.60000" z="1.70000" />
       		<fDriveBiasFront value="0.1500000" />
       		<nInitialDriveGears value="8" />
-      		<fInitialDriveForce value="0.63900" />
+      		<fInitialDriveForce value="0.67900" />
       		<fDriveInertia value="1.000000" />
       		<fClutchChangeRateScaleUpShift value="5.00000" />
       		<fClutchChangeRateScaleDownShift value="5.0000" />
-      		<fInitialDriveMaxFlatVel value="217.20000" />
+      		<fInitialDriveMaxFlatVel value="207.20000" />
       		<fBrakeForce value="0.88500" />
       		<fBrakeBiasFront value="0.540000" />
       		<fHandBrakeForce value="0.620000" />
