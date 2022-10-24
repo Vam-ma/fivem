@@ -610,6 +610,7 @@ fWeaponDamageScaledToVehHealthMult
 					<fBackEndPopUpCarImpulseMult value="0.100000" />
 					<fBackEndPopUpBuildingImpulseMult value="0.030000" />
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+					<strAdvancedFlags>4000000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL" />
 				<Item type="NULL" />
