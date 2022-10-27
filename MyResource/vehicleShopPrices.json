@@ -11,7 +11,7 @@
                 {"Type":"ISSI2","Price":3950},
                 {"Type":"KANJO","Price":9850},
                 {"Type":"PANTO","Price":2175},
-                {"Type":"WEEVIL","Price":6230},
+                {"Type":"WEEVIL","Price":6230}
 
             ]
         },
@@ -34,6 +34,7 @@
                 {"Type":"ZION","Price":41600},
                 {"Type":"ZION2","Price":41600},
                 {"Type":"KANJOSJ","Price":17720},
+                {"Type":"CLUB","Price":6500}
             ]
         },
         {
@@ -52,8 +53,8 @@
                 {"Type":"SUPERD","Price":65000},
                 {"Type":"TAILGATE","Price":28500},
                 {"Type":"TAILGATER2","Price":47500},
-                {"Type":"WARRENER","Price":9520},
-                {"Type":"RHINEHART","Price":72500},
+                {"Type":"WARRENER","Price":5220},
+                {"Type":"RHINEHART","Price":125000}
 
 
 
@@ -67,7 +68,33 @@
         },
         {
             "Class":"muscles",
-            "Vehicles":[
+            "Vehicles":[       
+                {"Type":"DEVIANT","Price":35000},
+                {"Type":"BUFFALO4","Price":82400},
+                {"Type":"VIGERO2","Price":85500},
+                {"Type":"RUINER4","Price":65200},
+                {"Type":"DOMINATOR7","Price":52300},
+                {"Type":"DOMINATOR8","Price":37500},
+                {"Type":"DOMINATOR","Price":15100},
+                {"Type":"BUCCANEER","Price":14400},
+                {"Type":"DOMINATOR3","Price":32500},
+                {"Type":"DUKES","Price":16800},
+                {"Type":"ELLIE","Price":28600},
+                {"Type":"FACTION","Price":12050},
+                {"Type":"GAUNTLET","Price":14850},
+                {"Type":"GAUNLET5","Price":29500},
+                {"Type":"PHOENIX","Price":15200},
+                {"Type":"SABREGT","Price":12350},
+                {"Type":"TULIP","Price":15450},
+                {"Type":"SLAMVAN","Price":11150},
+                {"Type":"STALION","Price":9500},
+                {"Type":"TAMPA","Price":18400},
+                {"Type":"YOSEMITE","Price":12600}
+
+
+
+
+                
 
             ]
         }
@@ -75,6 +102,62 @@
         {
             "Class":"sports",
             "Vehicles":[
+                {"Type":"EUROS","Price":79800},
+                {"Type":"REMUS","Price":66000},
+                {"Type":"PENUMBRA","Price":9200},
+                {"Type":"RT3000","Price":71000},
+                {"Type":"ZR350","Price":105000},
+                {"Type":"SUGOI","Price":45000},
+                {"Type":"JESTER4","Price":125000},
+                {"Type":"RAPIDGT","Price":10000},
+                {"Type":"BUFFALO","Price":9500},
+                {"Type":"BUFFALO2","Price":19200},
+                {"Type":"NINEF","Price":27500},
+                {"Type":"DRAFTER","Price":105000},
+                {"Type":"TENF","Price":255000},
+                {"Type":"OMNISEGT","Price":155000},
+                {"Type":"RAIDEN","Price":120000},
+                {"Type":"NEON","Price":145000},
+                {"Type":"VECTRE","Price":85000},
+                {"Type":"CYPHER","Price":98000},
+                {"Type":"SENTINEL3","Price":44500},
+                {"Type":"RHINEHART","Price":105000},
+                {"Type":"CALICO","Price":75000},
+                {"Type":"COMET","Price":25000},
+                {"Type":"COMET3","Price":52500},
+                {"Type":"COMET5","Price":85000},
+                {"Type":"COMET7","Price":145000},
+                {"Type":"COMET6","Price":142000},
+                {"Type":"CORSITA","Price":350000},
+                {"Type":"COQUETTE","Price":15500},
+                {"Type":"COQUETTE4","Price":175000},
+                {"Type":"ELEGY2","Price":85000},
+                {"Type":"JESTER","Price":110000},
+                {"Type":"FUTO","Price":5500},
+                {"Type":"FUTO2","Price":15500},
+                {"Type":"PARAGON","Price":115000},
+                {"Type":"PARIAH","Price":155000},
+                {"Type":"JUGULAR","Price":98000},
+                {"Type":"KURUMA","Price":25500},
+                {"Type":"KOMODA","Price":67500},
+                {"Type":"SCHLAGEN","Price":125000},
+                {"Type":"SCHWARZER","Price":15000},
+                {"Type":"SCHAFTER2","Price":10000},
+                {"Type":"SCHAFTER3","Price":85250},
+                {"Type":"SCHAFTER4","Price":66000},
+                {"Type":"SEVEN70","Price":78000},
+                {"Type":"SULTAN","Price":9500},
+                {"Type":"VSTR","Price":110000}
+
+
+
+
+
+               
+
+
+
+
 
             ]
         }
