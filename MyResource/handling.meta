@@ -161,7 +161,7 @@ fWeaponDamageScaledToVehHealthMult
 -->
 
 <CHandlingDataMgr>
-</HandlingData>
+<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>BLISTA2</handlingName>
 			<fMass value="1050.000000" />
