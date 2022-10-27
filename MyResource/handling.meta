@@ -159,8 +159,9 @@ SUBHANDLING DATA
 OTHER
 fWeaponDamageScaledToVehHealthMult
 -->
+
 <CHandlingDataMgr>
-	<HandlingData>
+</HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>BLISTA2</handlingName>
 			<fMass value="1050.000000" />
@@ -1836,7 +1837,6 @@ fWeaponDamageScaledToVehHealthMult
 				<Item type="NULL" />
 			</SubHandlingData>
 		</Item>
-		<HandlingData>
 			<Item type="CHandlingData">
 			  <handlingName>ASBO</handlingName>
 			  <fMass value="1030.000000" />
