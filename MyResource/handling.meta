@@ -29930,7 +29930,7 @@ fWeaponDamageScaledToVehHealthMult
 			<fPetrolTankVolume value="65.000000" />
 			<fOilVolume value="5.000000" />
 			<fSeatOffsetDistX value="0.000000" />
-			<fSeatOffsetDistY value="0.000000" />
+			<fSeatOffsetDistY value="-0.500000" />
 			<fSeatOffsetDistZ value="0.000000" />
 			<nMonetaryValue value="45000" />
 			<strModelFlags>1000000</strModelFlags>
@@ -35284,7 +35284,7 @@ fWeaponDamageScaledToVehHealthMult
 			<vecInertiaMultiplier x="1.0" y="1.6000000238419" z="1.7000000476837" />
 			<fDriveBiasFront value="0.25" />
 			<nInitialDriveGears value="8" />
-			<fInitialDriveForce value="1.159" />
+			<fInitialDriveForce value="0.859" />
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="5.0" />
 			<fClutchChangeRateScaleDownShift value="5.0" />
@@ -35293,8 +35293,8 @@ fWeaponDamageScaledToVehHealthMult
 			<fBrakeBiasFront value="0.54" />
 			<fHandBrakeForce value="0.62" />
 			<fSteeringLock value="47.5" />
-			<fTractionCurveMax value="2.885" />
-			<fTractionCurveMin value="2.555" />
+			<fTractionCurveMax value="2.685" />
+			<fTractionCurveMin value="2.355" />
 			<fTractionCurveLateral value="22.0" />
 			<fTractionSpringDeltaMax value="0.13" />
 			<fLowSpeedTractionLossMult value="1.1" />
