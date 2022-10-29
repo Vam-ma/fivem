@@ -12,7 +12,6 @@
                 {"Type":"KANJO","Price":9850},
                 {"Type":"PANTO","Price":2175},
                 {"Type":"WEEVIL","Price":6230}
-
             ]
         },
         {
@@ -52,18 +51,9 @@
                 {"Type":"STRATUM","Price":16150},
                 {"Type":"SUPERD","Price":65000},
                 {"Type":"TAILGATE","Price":28500},
-                {"Type":"TAILGATER2","Price":47500},
+                {"Type":"TAILGATER2","Price":77500},
                 {"Type":"WARRENER","Price":5220},
                 {"Type":"RHINEHART","Price":125000}
-
-
-
-
-
-
-
-                
-
             ]
         },
         {
@@ -90,12 +80,6 @@
                 {"Type":"STALION","Price":9500},
                 {"Type":"TAMPA","Price":18400},
                 {"Type":"YOSEMITE","Price":12600}
-
-
-
-
-                
-
             ]
         }
         ,
@@ -148,58 +132,161 @@
                 {"Type":"SEVEN70","Price":78000},
                 {"Type":"SULTAN","Price":9500},
                 {"Type":"VSTR","Price":110000}
-
-
-
-
-
-               
-
-
-
-
-
             ]
         }
         ,
         {
             "Class":"sportclassics",
             "Vehicles":[
-
+                {"Type":"FAGALOA","Price":8500},
+                {"Type":"Z190","Price":45000},
+                {"Type":"ZION3","Price":35000},
+                {"Type":"TORNADO","Price":25000},
+                {"Type":"TORNADO2","Price":28500},
+                {"Type":"CHEBUREK","Price":4500},
+                {"Type":"COQUETTE2","Price":139000},
+                {"Type":"DYNASTY","Price":5000},
+                {"Type":"GT500","Price":155000},
+                {"Type":"INFERNUS2","Price":595000},
+                {"Type":"TURISMO2","Price":655000}
             ]
         }
         ,
         {
             "Class":"super",
             "Vehicles":[
-
+                {"Type":"SULTANRS","Price":250000},
+                {"Type":"IGNUS","Price":4615000},
+                {"Type":"TORERO2","Price":3350000},
+                {"Type":"ADDER","Price":1500000},
+                {"Type":"NERO","Price":3200000},
+                {"Type":"THRAX","Price":3900000},
+                {"Type":"BANSHEE2","Price":295000},
+                {"Type":"BULLET","Price":195000},
+                {"Type":"CYCLONE","Price":325000},
+                {"Type":"ENTITYXF","Price":755000},
+                {"Type":"ZENO","Price":6215000},
+                {"Type":"ENTITY2","Price":1035000},
+                {"Type":"FMJ","Price":615000},
+                {"Type":"CHAMPION","Price":1525000},
+                {"Type":"SC1","Price":875000},
+                {"Type":"ZENTORNO","Price":575000},
+                {"Type":"REAPER","Price":295000},
+                {"Type":"TEMPESTA","Price":270000},
+                {"Type":"INFERNUS","Price":255000},
+                {"Type":"VACCA","Price":195000},
+                {"Type":"GP1","Price":831000},
+                {"Type":"PFISTER811","Price":895000},
+                {"Type":"FURIA","Price":1315000},
+                {"Type":"XA21","Price":915000},
+                {"Type":"TURISMOR","Price":1050000},
+                {"Type":"KRIEGER","Price":3510000},
+                {"Type":"FURIA","Price":2915000},
+                {"Type":"OSIRIS","Price":2100000},
+                {"Type":"T20","Price":3900000},
+                {"Type":"VISIONE","Price":7900000}
             ]
         }
         ,
         {
             "Class":"offroad",
             "Vehicles":[
-
+                {"Type":"BFINJECTION","Price":7000},
+                {"Type":"BIFTA","Price":11000},
+                {"Type":"CARACARA2","Price":57500},
+                {"Type":"dubsta3","Price":150000},
+                {"Type":"HELLION","Price":25000},
+                {"Type":"EVERON","Price":52500},
+                {"Type":"KAMACHO","Price":42100},
+                {"Type":"MESA3","Price":32500},
+                {"Type":"RANCHERXL","Price":14000},
+                {"Type":"REBEL2","Price":8500},
+                {"Type":"SANDKING2","Price":22000}
             ]
         }
         ,
         {
             "Class":"suvs",
             "Vehicles":[
-
+                {"Type":"BALLER","Price":12000},
+                {"Type":"BALLER2","Price":21200},
+                {"Type":"BALLER3","Price":31200},
+                {"Type":"BALLER7","Price":52350},
+                {"Type":"CAVCADE","Price":10000},
+                {"Type":"CONTENDER","Price":42500},
+                {"Type":"DUBSTA","Price":32700},
+                {"Type":"GRANGER","Price":55600},
+                {"Type":"LANDSTALKER","Price":27000},
+                {"Type":"LANDSTALKER2","Price":42500},
+                {"Type":"MESA","Price":12500},
+                {"Type":"NOVAK","Price":105000},
+                {"Type":"PATRIOT","Price":62200},
+                {"Type":"REBLA","Price":135000},
+                {"Type":"ROCOTO","Price":42000},
+                {"Type":"SEMINOLE","Price":33000},
+                {"Type":"SEMINOLE2","Price":28000},
+                {"Type":"TOROS","Price":185000},
+                {"Type":"XLS","Price":125000},
+                {"Type":"ASTRON","Price":137500}
             ]
         }
         ,
         {
             "Class":"vans",
             "Vehicles":[
-                
+                {"Type":"BISON","Price":9000},
+                {"Type":"BOBCATXL","Price":15000},
+                {"Type":"BURRITO3","Price":12000},
+                {"Type":"CAMPER","Price":17500},
+                {"Type":"RUMPO","Price":25000},
+                {"Type":"RUMPO3","Price":65000},
+                {"Type":"SPEEDO","Price":19000},
+                {"Type":"SURFER","Price":10000},
+                {"Type":"YOUGA","Price":21000},
+                {"Type":"YOUGA2","Price":19000},
+                {"Type":"YOUGA3","Price":25000}
             ]
         }
         ,
         {
             "Class":"motorcycles",
             "Vehicles":[
+                {"Type":"AKUMA","Price":15000},
+                {"Type":"BATI","Price":19000},
+                {"Type":"CARBONRS","Price":16000},
+                {"Type":"DEFILER","Price":20000},
+                {"Type":"DIABLOUS","Price":29000},
+                {"Type":"DIABLOUS2","Price":55000},
+                {"Type":"SHINOBI","Price":62200},
+                {"Type":"REEVER","Price":58400},
+                {"Type":"DOUBLE","Price":18400},
+                {"Type":"FCR","Price":22000},
+                {"Type":"HAKUCHOU","Price":45000},
+                {"Type":"LECTRO","Price":23400},
+                {"Type":"PCJ","Price":27500},
+                {"Type":"RUFFIAN","Price":30500},
+                {"Type":"THRUST","Price":29000},
+                {"Type":"VADER","Price":25000},
+                {"Type":"VINDICATOR","Price":29000},
+                {"Type":"VORTEX","Price":18000},
+                {"Type":"AVARUS","Price":22000},
+                {"Type":"BAGGER","Price":15500},
+                {"Type":"CLIFFHANGER","Price":21000},
+                {"Type":"DAEMON","Price":15000},
+                {"Type":"HEXER","Price":24000},
+                {"Type":"INNOVATION","Price":34000},
+                {"Type":"NIGHTBLADE","Price":55000},
+                {"Type":"WOLFSBANE","Price":29000},
+                {"Type":"ZOMBIEA","Price":17500},
+                {"Type":"ZOMBIEB","Price":17500},
+                {"Type":"ESSKEY","Price":16000},
+                {"Type":"BF400","Price":9500},
+                {"Type":"ENDURO","Price":15000},
+                {"Type":"MANCHEZ","Price":20000},
+                {"Type":"MANCHEZ2","Price":19000},
+                {"Type":"SANCHEZ","Price":12000},
+                {"Type":"VAGRANT","Price":32000},
+                {"Type":"OUTLAW","Price":35500}
                 
             ]
         }
