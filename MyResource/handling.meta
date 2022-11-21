@@ -11255,7 +11255,7 @@ fWeaponDamageScaledToVehHealthMult
 		</Item>
 		<Item type="CHandlingData">
 			<handlingName>HYDRA</handlingName>
-			<fMass value="8000.000000" />
+			<fMass value="1000.000000" />
 			<fInitialDragCoeff value="2.000000" />
 			<fPercentSubmerged value="75.000000" />
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -11263,12 +11263,12 @@ fWeaponDamageScaledToVehHealthMult
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="1" />
 			<fInitialDriveForce value="0.001000" />
-			<fDriveInertia value="1.000000" />
+			<fDriveInertia value="2.850000" />
 			<fClutchChangeRateScaleUpShift value="1.300000" />
 			<fClutchChangeRateScaleDownShift value="1.300000" />
-			<fInitialDriveMaxFlatVel value="10.000000" />
-			<fBrakeForce value="0.180000" />
-			<fBrakeBiasFront value="0.600000" />
+			<fInitialDriveMaxFlatVel value="1000.000000" />
+			<fBrakeForce value="0.065000" />
+			<fBrakeBiasFront value="0.650000" />
 			<fHandBrakeForce value="0.700000" />
 			<fSteeringLock value="30.000000" />
 			<fTractionCurveMax value="1.150000" />
@@ -11322,7 +11322,7 @@ fWeaponDamageScaledToVehHealthMult
 					<fGearDownDragV value="0.100000" />
 					<fGearDownLiftMult value="0.500000" />
 					<fWindMult value="0.120000" />
-					<fMoveRes value="0.015000" />
+					<fMoveRes value="0.005000" />
 					<vecTurnRes x="0.200000" y="0.500000" z="0.500000" />
 					<vecSpeedRes x="0.050000" y="0.300000" z="0.050000" />
 					<fGearDoorFrontOpen value="90.000000" />
@@ -11354,7 +11354,7 @@ fWeaponDamageScaledToVehHealthMult
 					<fFormLiftMult value="0.600000" />
 					<fAttackLiftMult value="2.500000" />
 					<fAttackDiveMult value="2.500000" />
-					<fGearDownDragV value="0.100000" />
+					<fGearDownDragV value="0.225000" />
 					<fGearDownLiftMult value="1.000000" />
 					<fWindMult value="0.000450" />
 					<fMoveRes value="0.050000" />
