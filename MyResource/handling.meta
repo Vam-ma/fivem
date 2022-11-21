@@ -11306,7 +11306,7 @@ fWeaponDamageScaledToVehHealthMult
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
 				<Item type="CFlyingHandlingData">
-					<fThrust value="0.900000" />
+					<fThrust value="3.900000" />
 					<fThrustFallOff value="0.000083" />
 					<fThrustVectoring value="0.000000" />
 					<fYawMult value="-0.002500" />
