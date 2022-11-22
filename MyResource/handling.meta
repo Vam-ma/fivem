@@ -11213,7 +11213,7 @@ fWeaponDamageScaledToVehHealthMult
 						<Item />
 					</uWeaponHash>
 					<WeaponSeats content="int_array">
-            8 
+            0 
             0 
             0 
           </WeaponSeats>
@@ -13119,7 +13119,7 @@ fWeaponDamageScaledToVehHealthMult
 						<Item>VEHICLE_WEAPON_APC_MG</Item>
 					</uWeaponHash>
 					<WeaponSeats content="int_array">
-            1 
+            0 
             1 
             2 
             3 
